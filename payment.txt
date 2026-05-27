@@ -1,0 +1,6 @@
+Payment Module
+
+- Added payment gateway integration
+- Added transaction validation
+- Added order payment status
+- Improved checkout workflow
